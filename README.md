@@ -1,6 +1,7 @@
 # TestLaravel6PuntoPost
 
-#Características:
+# Características:
+
 • Inicio de sesión del usuario.
 • Crear migraciones con las tablas básicas y campos mínimos para manejar un punto de ventas.
 • Crear seeders para llenar base de datos necesarios para el correcto funcionamiento.
